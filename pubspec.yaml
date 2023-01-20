@@ -1,4 +1,4 @@
-name: flash_chat
+name: chattingg
 description: A new Flutter application.
 
 version: 1.0.0+1
@@ -11,10 +11,10 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^0.1.2
-  animated_text_kit: ^1.3.0
-  firebase_core: ^0.3.4
-  firebase_auth: ^0.8.4+4
-  cloud_firestore: ^0.9.13+1
+  animated_text_kit: ^4.2.2
+  firebase_core: ^2.4.1
+  firebase_auth: ^4.2.5
+  cloud_firestore: ^4.3.1
   modal_progress_hud: ^0.1.3
 
 dev_dependencies:

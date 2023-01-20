@@ -1,34 +1,33 @@
 {
   "project_info": {
-    "project_number": "1055788443339",
-    "firebase_url": "https://flash-chat-58a2a.firebaseio.com",
-    "project_id": "flash-chat-58a2a",
-    "storage_bucket": "flash-chat-58a2a.appspot.com"
+    "project_number": "14417801390",
+    "project_id": "chattingg-75282",
+    "storage_bucket": "chattingg-75282.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1055788443339:android:26ee5a166746f262",
+        "mobilesdk_app_id": "1:14417801390:android:c7ba1ecc3d45aeb2dbfd3f",
         "android_client_info": {
-          "package_name": "co.appbrewery.flash_chat"
+          "package_name": "com.roshan.chattingg"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1055788443339-o0dpvs896iv6ju6s3kqhkndv0bt8cgoc.apps.googleusercontent.com",
+          "client_id": "14417801390-lp7l6t1p027h1od6ojfo8k64gc08q5sv.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD6rctF2MNCGAIz2K70BQvTBfSJPHaaCqo"
+          "current_key": "AIzaSyAwhZcZRjGgbe07hZMDcxaklcPQfpnMeic"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1055788443339-o0dpvs896iv6ju6s3kqhkndv0bt8cgoc.apps.googleusercontent.com",
+              "client_id": "14417801390-lp7l6t1p027h1od6ojfo8k64gc08q5sv.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
